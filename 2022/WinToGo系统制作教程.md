@@ -4,9 +4,8 @@ date: 2022-03-30
 categories: technology
 tags: 便携式Windows系统
 comments: true
-description: 技术
+description: technology
 ---
-
 
 ## 准备工作
 
@@ -26,13 +25,11 @@ Win7/Win10
 
 [具体教程请参考 https://bbs.luobotou.org/thread-2427-1-1.html](https://bbs.luobotou.org/thread-2427-1-1.html)
 
-
 ## 步骤
 
 一、下载好所需工具后，解压文件 双击运行 **Windows To Go优盘系统工具**
 
 ![解压后](https://cdn.jsdelivr.net/gh/burning1995/imagesCloud/images/1.png)
-
 
 二、具体操作请参考下图
 
